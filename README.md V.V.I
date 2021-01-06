@@ -8,3 +8,5 @@ NOTE-the first time u add ur id pass should be accurate else it might cause issu
 
 Its just a trial version and its updates will be available shortly.
 IMP-It gonna take time in marking attendance depending on net connection so let it take its time and when marked or already marked it gonna ping it.
+
+only turn your pc sleep settings to never
