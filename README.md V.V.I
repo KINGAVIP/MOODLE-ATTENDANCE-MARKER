@@ -15,3 +15,11 @@ Timer update
 set ur class time and it gonna auto mark
 
 Note-turn your pc sleep settings to never
+
+update 3.0
+FINAL UPDATE
+
+just open the app click on set and you can sleep peacefully
+
+NOTE-your pc hsould be connected to pc and sleep option should be changed to never.
+ENJOY
